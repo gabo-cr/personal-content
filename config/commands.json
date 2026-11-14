@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "commands": [
+    {
+      "name": "about",
+      "description": "Presentación",
+      "type": "document",
+      "content": "about"
+    },
+    {
+      "name": "code",
+      "description": "Ingeniería",
+      "type": "collection",
+      "collection": "engineering"
+    },
+    {
+      "name": "read",
+      "description": "Literatura",
+      "type": "collection",
+      "collection": "literature"
+    },
+    {
+      "name": "contact",
+      "description": "Contacto",
+      "type": "document",
+      "content": "contact"
+    }
+  ]
+}

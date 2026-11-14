@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "collections": [
+    {
+      "id": "engineering",
+      "title": "Ingeniería",
+      "intro": "engineering-intro",
+      "documents": ["first-solution"]
+    },
+    {
+      "id": "literature",
+      "title": "Literatura",
+      "intro": "literature-intro",
+      "documents": ["first-text"]
+    }
+  ],
+  "documents": [
+    {
+      "id": "about",
+      "title": "Acerca de",
+      "path": "content/about.md",
+      "format": "markdown"
+    },
+    {
+      "id": "contact",
+      "title": "Contacto",
+      "path": "content/contact.md",
+      "format": "markdown"
+    },
+    {
+      "id": "engineering-intro",
+      "title": "Ingeniería",
+      "path": "content/engineering/intro.md",
+      "format": "markdown"
+    },
+    {
+      "id": "first-solution",
+      "title": "Primera solución",
+      "path": "content/engineering/first-solution.md",
+      "format": "markdown"
+    },
+    {
+      "id": "literature-intro",
+      "title": "Escritura",
+      "path": "content/writing/intro.md",
+      "format": "markdown"
+    },
+    {
+      "id": "first-text",
+      "title": "Primer texto",
+      "path": "content/writing/first-text.md",
+      "format": "markdown"
+    }
+  ]
+}
