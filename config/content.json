@@ -1,17 +1,48 @@
+
 {
   "version": 1,
   "collections": [
     {
-      "id": "engineering",
-      "title": "Ingeniería",
-      "intro": "engineering-intro",
+      "id": "software-projects",
+      "title": "Proyectos",
+      "intro": "software-projects-intro",
+      "documents": []
+    },
+    {
+      "id": "software-solutions",
+      "title": "Soluciones",
+      "intro": "software-solutions-intro",
       "documents": ["first-solution"]
     },
     {
-      "id": "literature",
-      "title": "Literatura",
-      "intro": "literature-intro",
-      "documents": ["first-text"]
+      "id": "software-insights",
+      "title": "Aprendizajes",
+      "intro": "software-insights-intro",
+      "documents": []
+    },
+    {
+      "id": "writing-books",
+      "title": "Libros",
+      "intro": "writing-books-intro",
+      "documents": []
+    },
+    {
+      "id": "writing-fragments",
+      "title": "Fragmentos",
+      "intro": "writing-fragments-intro",
+      "documents": []
+    },
+    {
+      "id": "writing-poems",
+      "title": "Poemas",
+      "intro": "writing-poems-intro",
+      "documents": []
+    },
+    {
+      "id": "writing-thoughts",
+      "title": "Pensamientos",
+      "intro": "writing-thoughts-intro",
+      "documents": []
     }
   ],
   "documents": [
@@ -28,27 +59,51 @@
       "format": "markdown"
     },
     {
-      "id": "engineering-intro",
-      "title": "Ingeniería",
-      "path": "content/engineering/intro.md",
-      "format": "markdown"
-    },
-    {
       "id": "first-solution",
       "title": "Primera solución",
-      "path": "content/engineering/first-solution.md",
+      "path": "content/software/solutions/first-solution.md",
       "format": "markdown"
     },
     {
-      "id": "literature-intro",
-      "title": "Escritura",
-      "path": "content/writing/intro.md",
+      "id": "software-projects-intro",
+      "title": "Introducción a proyectos",
+      "path": "content/software/projects/intro.md",
       "format": "markdown"
     },
     {
-      "id": "first-text",
-      "title": "Primer texto",
-      "path": "content/writing/first-text.md",
+      "id": "software-solutions-intro",
+      "title": "Introducción a soluciones",
+      "path": "content/software/solutions/intro.md",
+      "format": "markdown"
+    },
+    {
+      "id": "software-insights-intro",
+      "title": "Introducción a aprendizajes",
+      "path": "content/software/insights/intro.md",
+      "format": "markdown"
+    },
+    {
+      "id": "writing-books-intro",
+      "title": "Introducción a libros",
+      "path": "content/writing/books/intro.md",
+      "format": "markdown"
+    },
+    {
+      "id": "writing-fragments-intro",
+      "title": "Introducción a fragmentos",
+      "path": "content/writing/fragments/intro.md",
+      "format": "markdown"
+    },
+    {
+      "id": "writing-poems-intro",
+      "title": "Introducción a poemas",
+      "path": "content/writing/poems/intro.md",
+      "format": "markdown"
+    },
+    {
+      "id": "writing-thoughts-intro",
+      "title": "Introducción a pensamientos",
+      "path": "content/writing/thoughts/intro.md",
       "format": "markdown"
     }
   ]

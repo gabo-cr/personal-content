@@ -1,7 +1,7 @@
 {
   "version": 1,
   "name": "Gabriel Chávez Riera",
-  "description": "Bienvenido a mi espacio. Un lugar para las cosas que construyo, las cosas que escribo y las cosas que pienso. No hay demasiado que recorrer. Puedes comenzar preguntando.",
+  "description": "Bienvenido a mi espacio. Un lugar para las cosas que construyo, lo que escribo y lo que pienso.",
   "locale": "es",
   "terminal": {
     "welcome": "Escribe help para descubrir este lugar."

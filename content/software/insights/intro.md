@@ -1,4 +1,4 @@
-# Escritura
+# Aprendizajes
 
 > **Texto provisional:** la introducción de esta sección está pendiente.
 
