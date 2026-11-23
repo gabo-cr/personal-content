@@ -7,10 +7,3 @@ Como iba diciendo, seguramente habrás escuchado mi nombre al entrar en este esp
 Además de nombre y apellido, también tengo profesión. Soy Ingeniero y Escritor. Por un lado, Ingeniero en Ciencias Computacionales con orientación en Sistemas de Información, según afirma mi título universitario, o lo que comúnmente se conoce como un **Ingeniero de Sistemas**. Y, por otro lado, **Escritor**. Escritor creativo, de relatos, cuentos, ensayos literarios y prosa poética. Escritor con voz propia y unas cuantas autopublicaciones.
 
 Esta es la parte pública que me interesa compartirte. Lo que te acabo de contar es el resumen de quien soy para quien ha llegado a este espacio. Como todos, soy mucho más que esta parte que te cuento. Soy una persona con otras facetas e intereses. Sin embargo, en este espacio compartiré la parte que creo te puede interesar.
-
-Si quieres conocer un poco más sobre mi faceta de **ingeniero**, escribe el comando `code` en la terminal.
-
-Si quieres conocer más sobre mi **escritura**, basta con escribir el comando `read` para entrar a descubrirla.
-
-
-

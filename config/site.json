@@ -3,6 +3,7 @@
   "name": "Gabriel Chávez Riera",
   "description": "Bienvenido a mi espacio. Un lugar para las cosas que construyo, lo que escribo y lo que pienso.",
   "locale": "es",
+  "favicon": "assets/favicon.png",
   "terminal": {
     "welcome": "Escribe help para descubrir este lugar."
   },
